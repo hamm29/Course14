@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3r+Zd3BzB30=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hamma\\Documents\\GitHub\\Course14\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamma\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.8\\microsoft.dotnet.ilcompiler.9.0.8.nupkg.sha512",
+    "C:\\Users\\hamma\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.8\\microsoft.net.illink.tasks.9.0.8.nupkg.sha512",
+    "C:\\Users\\hamma\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.8\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
