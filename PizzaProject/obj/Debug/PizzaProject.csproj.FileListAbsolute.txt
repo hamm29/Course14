@@ -1,0 +1,11 @@
+C:\Users\hamma\Documents\GitHub\Course14\PizzaProject\bin\Debug\PizzaProject.exe.config
+C:\Users\hamma\Documents\GitHub\Course14\PizzaProject\bin\Debug\PizzaProject.exe
+C:\Users\hamma\Documents\GitHub\Course14\PizzaProject\bin\Debug\PizzaProject.pdb
+C:\Users\hamma\Documents\GitHub\Course14\PizzaProject\obj\Debug\PizzaProject.csproj.AssemblyReference.cache
+C:\Users\hamma\Documents\GitHub\Course14\PizzaProject\obj\Debug\PizzaProject.frPizzaOrder.resources
+C:\Users\hamma\Documents\GitHub\Course14\PizzaProject\obj\Debug\PizzaProject.Properties.Resources.resources
+C:\Users\hamma\Documents\GitHub\Course14\PizzaProject\obj\Debug\PizzaProject.csproj.GenerateResource.cache
+C:\Users\hamma\Documents\GitHub\Course14\PizzaProject\obj\Debug\PizzaProject.csproj.CoreCompileInputs.cache
+C:\Users\hamma\Documents\GitHub\Course14\PizzaProject\obj\Debug\PizzaProject.exe
+C:\Users\hamma\Documents\GitHub\Course14\PizzaProject\obj\Debug\PizzaProject.pdb
+C:\Users\hamma\Documents\GitHub\Course14\PizzaProject\obj\Debug\PizzaProject.exe.config

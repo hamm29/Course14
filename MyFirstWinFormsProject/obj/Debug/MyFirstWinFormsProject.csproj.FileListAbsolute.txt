@@ -1,0 +1,14 @@
+C:\Users\hamma\Documents\GitHub\Course14\MyFirstWinFormsProject\bin\Debug\MyFirstWinFormsProject.exe.config
+C:\Users\hamma\Documents\GitHub\Course14\MyFirstWinFormsProject\bin\Debug\MyFirstWinFormsProject.exe
+C:\Users\hamma\Documents\GitHub\Course14\MyFirstWinFormsProject\bin\Debug\MyFirstWinFormsProject.pdb
+C:\Users\hamma\Documents\GitHub\Course14\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.csproj.AssemblyReference.cache
+C:\Users\hamma\Documents\GitHub\Course14\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.Properties.Resources.resources
+C:\Users\hamma\Documents\GitHub\Course14\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.csproj.GenerateResource.cache
+C:\Users\hamma\Documents\GitHub\Course14\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.csproj.CoreCompileInputs.cache
+C:\Users\hamma\Documents\GitHub\Course14\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.exe
+C:\Users\hamma\Documents\GitHub\Course14\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.pdb
+C:\Users\hamma\Documents\GitHub\Course14\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.exe.config
+C:\Users\hamma\Documents\GitHub\Course14\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.Form1.resources
+C:\Users\hamma\Documents\GitHub\Course14\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frMain.resources
+C:\Users\hamma\Documents\GitHub\Course14\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmMessageBox.resources
+C:\Users\hamma\Documents\GitHub\Course14\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.Form3.resources
