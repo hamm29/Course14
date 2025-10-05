@@ -3,18 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hamma\\Documents\\GitHub\\Course14\\Main3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Main3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{D18082CE-82DC-49BD-BC2F-B091EC07C40E}|Main3\\Main3.csproj|c:\\users\\hamma\\documents\\github\\course14\\main3\\main3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D18082CE-82DC-49BD-BC2F-B091EC07C40E}|Main3\\Main3.csproj|solutionrelative:main3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD06A152-C208-4E92-BC21-C5B20C5108B2}|Main3.csproj|C:\\Users\\hamma\\Documents\\GitHub\\Course14\\Main3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD06A152-C208-4E92-BC21-C5B20C5108B2}|Main3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD06A152-C208-4E92-BC21-C5B20C5108B2}|Main3.csproj|c:\\users\\hamma\\documents\\github\\course14\\main3\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{BD06A152-C208-4E92-BC21-C5B20C5108B2}|Main3.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD06A152-C208-4E92-BC21-C5B20C5108B2}|Main3.csproj|c:\\users\\hamma\\documents\\github\\course14\\main3\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{D18082CE-82DC-49BD-BC2F-B091EC07C40E}|Main3\\Main3.csproj|c:\\users\\hamma\\documents\\github\\course14\\main3\\main3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18082CE-82DC-49BD-BC2F-B091EC07C40E}|Main3\\Main3.csproj|solutionrelative:main3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hamma\\Documents\\GitHub\\Course14\\Main3\\Main3\\Form1.cs",
+              "RelativeDocumentMoniker": "Main3\\Form1.cs",
+              "ToolTip": "C:\\Users\\hamma\\Documents\\GitHub\\Course14\\Main3\\Main3\\Form1.cs*",
+              "RelativeToolTip": "Main3\\Form1.cs*",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAawJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T10:46:55.141Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -41,40 +49,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Main3",
-              "DocumentMoniker": "C:\\Users\\hamma\\Documents\\GitHub\\Course14\\Main3\\Main3.csproj",
-              "RelativeDocumentMoniker": "Main3.csproj",
-              "ToolTip": "C:\\Users\\hamma\\Documents\\GitHub\\Course14\\Main3\\Main3.csproj",
-              "RelativeToolTip": "Main3.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-05T10:26:56.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\hamma\\Documents\\GitHub\\Course14\\Main3\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\hamma\\Documents\\GitHub\\Course14\\Main3\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-05T10:26:24.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hamma\\Documents\\GitHub\\Course14\\Main3\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\hamma\\Documents\\GitHub\\Course14\\Main3\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAQAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hamma\\Documents\\GitHub\\Course14\\Main3\\Main3\\Form1.cs",
+              "RelativeDocumentMoniker": "Main3\\Form1.cs",
+              "ToolTip": "C:\\Users\\hamma\\Documents\\GitHub\\Course14\\Main3\\Main3\\Form1.cs [Design]*",
+              "RelativeToolTip": "Main3\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T02:49:14.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T10:35:50.388Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

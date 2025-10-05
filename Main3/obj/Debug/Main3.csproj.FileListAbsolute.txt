@@ -1,8 +1,0 @@
-C:\Users\hamma\Documents\GitHub\Course14\Main3\bin\Debug\Main3.exe.config
-C:\Users\hamma\Documents\GitHub\Course14\Main3\bin\Debug\Main3.exe
-C:\Users\hamma\Documents\GitHub\Course14\Main3\bin\Debug\Main3.pdb
-C:\Users\hamma\Documents\GitHub\Course14\Main3\obj\Debug\Main3.csproj.AssemblyReference.cache
-C:\Users\hamma\Documents\GitHub\Course14\Main3\obj\Debug\Main3.csproj.CoreCompileInputs.cache
-C:\Users\hamma\Documents\GitHub\Course14\Main3\obj\Debug\Main3.exe
-C:\Users\hamma\Documents\GitHub\Course14\Main3\obj\Debug\Main3.pdb
-C:\Users\hamma\Documents\GitHub\Course14\Main3\obj\Debug\Main3.exe.config
