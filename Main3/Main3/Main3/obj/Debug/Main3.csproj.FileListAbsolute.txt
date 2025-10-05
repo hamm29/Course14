@@ -1,0 +1,11 @@
+C:\Users\drmus\source\repos\Main3\Main3\bin\Debug\Main3.exe.config
+C:\Users\drmus\source\repos\Main3\Main3\bin\Debug\Main3.exe
+C:\Users\drmus\source\repos\Main3\Main3\bin\Debug\Main3.pdb
+C:\Users\drmus\source\repos\Main3\Main3\obj\Debug\Main3.csproj.AssemblyReference.cache
+C:\Users\drmus\source\repos\Main3\Main3\obj\Debug\Main3.frPizzaOrderForm.resources
+C:\Users\drmus\source\repos\Main3\Main3\obj\Debug\Main3.Properties.Resources.resources
+C:\Users\drmus\source\repos\Main3\Main3\obj\Debug\Main3.csproj.GenerateResource.cache
+C:\Users\drmus\source\repos\Main3\Main3\obj\Debug\Main3.csproj.CoreCompileInputs.cache
+C:\Users\drmus\source\repos\Main3\Main3\obj\Debug\Main3.exe
+C:\Users\drmus\source\repos\Main3\Main3\obj\Debug\Main3.pdb
+C:\Users\drmus\source\repos\Main3\Main3\obj\Debug\Main3.exe.config
